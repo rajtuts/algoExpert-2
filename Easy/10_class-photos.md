@@ -11,6 +11,15 @@ We are given two non-empty arrays of positive integers: the first is going to re
 
 The function is going to arrange the students and return `true` if we can take a photo that follows these constraints; otherwise return `false`.
 
+Sample Input
+
+redShirtHeights = [5, 8, 1, 3, 4]
+blueShirtHeights = [6, 9, 2, 4, 5]
+
+Sample Output
+
+true // Place all students with blue shirts in the back row.
+
 #
 
 ### Approach
