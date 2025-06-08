@@ -1,4 +1,4 @@
-# 15. Remove Duplicates From Linked List
+# 16. Remove Duplicates From Linked List
 
 ### Understanding the problem
 
