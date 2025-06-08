@@ -1,10 +1,36 @@
-# Product Sum
+# 19.Product Sum
 
 ### Understanding the problem
 
 We are given a "special" array, which contains integers and optionally other "special" arrays. We are asked to write a function that is going to return the sum of the elements in the "special" array. If the element is a "special" array, we need to sum up the elements in the "special" array and then multiply the sum by the depth of the "special" array. For instance, if the input array is `[3, [4, 5]]`, then the result should be `3 + 2 * (4 + 5) = 21`; if the input array is `[6, [4, [5]]]`, then the result should be `6 + 2 * (4 + 3 * 5) = 44`.
 
-#
+### Solution
+```
+import java.util.*;
+
+class Program {
+  // O(n) time | O(d) space - where n is the total number of elements in the
+  // array, including sub-elements, and d is the greatest depth of "special"
+  // arrays in the array
+  public static int productSum(List<Object> array) {
+    return productSumHelper(array, 1);
+  }
+
+  public static int productSumHelper(List<Object> array, int multiplier) {
+    int sum = 0;
+    for (Object el : array) {
+      if (el instanceof ArrayList) {
+        @SuppressWarnings("unchecked")
+        ArrayList<Object> ls = (ArrayList<Object>) el;
+        sum += productSumHelper(ls, multiplier + 1);
+      } else {
+        sum += (int) el;
+      }
+    }
+    return sum * multiplier;
+  }
+}
+```
 
 ### Approach
 
