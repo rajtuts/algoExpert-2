@@ -1,4 +1,4 @@
-# Class Photos
+# 13. Class Photos
 
 ### Understanding the problem
 
