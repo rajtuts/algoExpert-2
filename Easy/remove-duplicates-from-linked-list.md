@@ -1,4 +1,4 @@
-# Remove Duplicates From Linked List
+# 15. Remove Duplicates From Linked List
 
 ### Understanding the problem
 
@@ -11,6 +11,38 @@ We are given the head of a singly linked list. The nodes of the linked list are 
 Since the linked list is sorted, all of the duplicate values are grouped together. Therefore we can determine whether a node is a duplicate by comparing its value to the node after it.
 
 We traverse the linked list. At each step we compare current node's value to the value of the next node. If they are the same, delete the next node by pointing current node's next pointer directly to the one after the next node. Otherwise we move on to the next node. Return the head of the modified linked list at the end.
+
+Java Solution
+```
+import java.util.*;
+
+class Program {
+  // This is an input class. Do not edit.
+  public static class LinkedList {
+    public int value;
+    public LinkedList next;
+
+    public LinkedList(int value) {
+      this.value = value;
+      this.next = null;
+    }
+  }
+
+  // O(n) time | O(1) space - where n is the number of nodes in the Linked List
+  public LinkedList removeDuplicatesFromLinkedList(LinkedList linkedList) {
+    LinkedList currentNode = linkedList;
+    while (currentNode != null) {
+      LinkedList nextDistinctNode = currentNode.next;
+      while (nextDistinctNode != null && nextDistinctNode.value == currentNode.value) {
+        nextDistinctNode = nextDistinctNode.next;
+      }
+      currentNode.next = nextDistinctNode;
+      currentNode = nextDistinctNode;
+    }
+    return linkedList;
+  }
+}
+```
 
 ### Implementation
 
