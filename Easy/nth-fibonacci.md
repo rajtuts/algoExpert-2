@@ -4,7 +4,24 @@
 
 Given an integer `n`, we are asked to write a function that is going to return the `n`th Fibonacci number in the Fibonacci sequence. Normally, the Fibonacci sequence uses zero based indexing, which means the first two numbers of the sequence are `F0 = 0` and `F1 = 1`. However, in this problem, we are going to use one based indexing. For instance, `getNthFib(1)` should return `0` instead of `1`.
 
-#
+# Solution
+```
+class Program {
+  // O(n) time | O(1) space
+  public static int getNthFib(int n) {
+    int[] lastTwo = {0, 1};
+    int counter = 3;
+    while (counter <= n) {
+      int nextFib = lastTwo[0] + lastTwo[1];
+      lastTwo[0] = lastTwo[1];
+      lastTwo[1] = nextFib;
+      counter++;
+    }
+    return n > 1 ? lastTwo[1] : lastTwo[0];
+  }
+}
+```
+
 
 ### Approach 1: Iterative
 
