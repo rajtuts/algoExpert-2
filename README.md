@@ -95,21 +95,21 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Staircase Traversal                               								| 🔵         | Strings              |                          |                |
 | [Blackjack Probability                               								| 🔵         | Strings              |                          |                |
 | [Reveal Minesweeper                               								| 🔵         | Strings              |                          |                |
-| [Search In Sorted Matrix                               							| 🟢         | Strings              |                          |                |
-| [Three Number Sum                               									| 🟢         | Strings              |                          |                |
-| [Min Max Stack Construction                               						| 🟢         | Strings              |                          |                |
-| [Balanced Brackets                               									| 🟢         | Strings              |                          |                |
-| [Sunset Views                               										| 🟢         | Strings              |                          |                |
-| [Best Digits                               										| 🟢         | Strings              |                          |                |
-| [Sort Stack                               										| 🟢         | Strings              |                          |                |
-| [Next Greater Element                               								| 🟢         | Strings              |                          |                |
-| [Reverse Polish Notation                               							| 🟢         | Strings              |                          |                |
-| [Colliding Asteroids                               								| 🟢         | Strings              |                          |                |
-| [Longest Palindromic Substring                               						| 🟢         | Strings              |                          |                |
-| [Group Anagrams                               									| 🟢         | Strings              |                          |                |
-| [Valid IP Addresses                               								| 🟢         | Strings              |                          |                |
-| [Reverse Words In String                               							| 🟢         | Strings              |                          |                |
-| [Minimum Characters For Words                               						| 🟢         | Strings              |                          |                |
-| [One Edit                               											| 🟢         | Strings              |                          |                |
-| [Suffix Trie Construction                               							| 🟢         | Strings              |                          |                |
+| [Search In Sorted Matrix                               							| 🔵         | Strings              |                          |                |
+| [Three Number Sum                               									| 🔵         | Strings              |                          |                |
+| [Min Max Stack Construction                               						| 🔵         | Strings              |                          |                |
+| [Balanced Brackets                               									| 🔵         | Strings              |                          |                |
+| [Sunset Views                               										| 🔵         | Strings              |                          |                |
+| [Best Digits                               										| 🔵         | Strings              |                          |                |
+| [Sort Stack                               										| 🔵         | Strings              |                          |                |
+| [Next Greater Element                               								| 🔵         | Strings              |                          |                |
+| [Reverse Polish Notation                               							| 🔵         | Strings              |                          |                |
+| [Colliding Asteroids                               								| 🔵         | Strings              |                          |                |
+| [Longest Palindromic Substring                               						| 🔵         | Strings              |                          |                |
+| [Group Anagrams                               									| 🔵         | Strings              |                          |                |
+| [Valid IP Addresses                               								| 🔵         | Strings              |                          |                |
+| [Reverse Words In String                               							| 🔵         | Strings              |                          |                |
+| [Minimum Characters For Words                               						| 🔵         | Strings              |                          |                |
+| [One Edit                               											| 🔵         | Strings              |                          |                |
+| [Suffix Trie Construction                               							| 🔵         | Strings              |                          |                |
 
