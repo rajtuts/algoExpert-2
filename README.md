@@ -172,33 +172,33 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Multi String Search                               | 🟢         | Strings              |                          |                |  
 | [Longest Most Frequent Prefix                               | 🟢         | Strings              |                          |                |  
 | [Shortest Unique Prefixes                               | 🟢         | Strings              |                          |                |  
-| [                               | 🟢         | Strings              |                          |                |  
-| [Min Profits With K Transactions| 🟢         | Strings              |                          |                |  
-| [Apartment Hunting| 🟢         | Strings              |                          |                |  
-| [Calendar Matching| 🟢         | Strings              |                          |                |  
-| [Waterfall Frea| 🟢         | Strings              |                          |                |  
-| [Minimum Area Rectangle| 🟢         | Strings              |                          |                |  
-| [Line Through Points| 🟢         | Strings              |                          |                |  
-| [Right Smaller Than| 🟢         | Strings              |                          |                |  
-| [Iterative In-order Traversal| 🟢         | Strings              |                          |                |  
-| [Flatten Binary Tree| 🟢         | Strings              |                          |                |  
-| [Right Sibling Tree| 🟢         | Strings              |                          |                |  
-| [All Kinds Of Node Depths| 🟢         | Strings              |                          |                |  
-| [Compare Leaf Traversal| 🟢         | Strings              |                          |                |  
-| [Palindrome Partitioning Min Cuts| 🟢         | Strings              |                          |                |  
-| [Longest Increasing Subsequence| 🟢         | Strings              |                          |                |  
-| [Longest String Chain| 🟢         | Strings              |                          |                |  
-| [Square Of Zeroes| 🟢         | Strings              |                          |                |  
-| [Knuth–Morris–Pratt Algorithm| 🟢         | Strings              |                          |                |  
-| [A* Algorithm| 🟢         | Strings              |                          |                |  
-| [Rectangle Mania| 🟢         | Strings              |                          |                |  
-| [Detect Arbitrage| 🟢         | Strings              |                          |                |  
-| [Two-Edge-Connected Graph| 🟢         | Strings              |                          |                |  
-| [Airport Connections| 🟢         | Strings              |                          |                |  
-| [Merge Sorted Arrays| 🟢         | Strings              |                          |                |  
-| [LRU Cache| 🟢         | Strings              |                          |                |  
-| [Rearrange Linked List| 🟢         | Strings              |                          |                |  
-| [Linked List Palindrome| 🟢         | Strings              |                          |                |  
+| [                               | ⚫️         | Strings              |                          |                |  
+| [Min Profits With K Transactions| ⚫️         | Strings              |                          |                |  
+| [Apartment Hunting| ⚫️         | Strings              |                          |                |  
+| [Calendar Matching| ⚫️         | Strings              |                          |                |  
+| [Waterfall Frea| ⚫️         | Strings              |                          |                |  
+| [Minimum Area Rectangle| ⚫️         | Strings              |                          |                |  
+| [Line Through Points| ⚫️         | Strings              |                          |                |  
+| [Right Smaller Than| ⚫️         | Strings              |                          |                |  
+| [Iterative In-order Traversal| ⚫️         | Strings              |                          |                |  
+| [Flatten Binary Tree| ⚫️         | Strings              |                          |                |  
+| [Right Sibling Tree| ⚫️         | Strings              |                          |                |  
+| [All Kinds Of Node Depths| ⚫️         | Strings              |                          |                |  
+| [Compare Leaf Traversal| ⚫️         | Strings              |                          |                |  
+| [Palindrome Partitioning Min Cuts| ⚫️         | Strings              |                          |                |  
+| [Longest Increasing Subsequence| ⚫️         | Strings              |                          |                |  
+| [Longest String Chain| ⚫️         | Strings              |                          |                |  
+| [Square Of Zeroes| ⚫️         | Strings              |                          |                |  
+| [Knuth–Morris–Pratt Algorithm| ⚫️         | Strings              |                          |                |  
+| [A* Algorithm| ⚫️         | Strings              |                          |                |  
+| [Rectangle Mania| ⚫️         | Strings              |                          |                |  
+| [Detect Arbitrage| ⚫️         | Strings              |                          |                |  
+| [Two-Edge-Connected Graph| ⚫️         | Strings              |                          |                |  
+| [Airport Connections| ⚫️         | Strings              |                          |                |  
+| [Merge Sorted Arrays| ⚫️         | Strings              |                          |                |  
+| [LRU Cache| ⚫️         | Strings              |                          |                |  
+| [Rearrange Linked List| ⚫️         | Strings              |                          |                |  
+| [Linked List Palindrome| ⚫️         | Strings              |                          |                |  
 | [Zip Linked List| 🟢         | Strings              |                          |                |  
 | [Node Swap| 🟢         | Strings              |                          |                |  
 | [Number Of Binary Tree Topologies| 🟢         | Strings              |                          |                |  
