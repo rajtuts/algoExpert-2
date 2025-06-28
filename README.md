@@ -113,7 +113,7 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [One Edit                               											| 🔵         | Strings              |                          |                |
 | [Suffix Trie Construction                               							| 🔵         | Strings              |                          |                |  
 |                                | 🟢         | Strings              |                          |                | 
-## | Hard Problems                               | 🟢         | Strings              |                          |                | 
+| Hard Problems                               | 🟢         | Strings              |                          |                | 
 | [Shift Linked List                               | 🟢         | Strings              |                          |                |  
 | [Four Number Sum                               | 🟢         | Strings              |                          |                |  
 | [Subarray Sort                               | 🟢         | Strings              |                          |                |  
