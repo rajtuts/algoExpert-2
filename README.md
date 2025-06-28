@@ -37,13 +37,13 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Cesar Cipher Encryptor](/Easy/cesar-cipher-encryptor.md)                         | 🟢         | Strings              |                          |                |
 | [Run-Length Encoding](/Easy/run-length-encoding.md)                               | 🟢         | Strings              |                          |                |
 
-| [River Sizes                               										                    | 🟢         | Strings              |                          |                |
-| [Three Number Sum                               									| 🟢         | Strings              |                          |                |
-| [Smallest Difference                               								| 🟢         | Strings              |                          |                |
-| [Move Element To End                               								| 🟢         | Strings              |                          |                |
-| [Monotonic Array                               									| 🟢         | Strings              |                          |                |
-| [Spiral Traverse                               									| 🟢         | Strings              |                          |                |
-| [Longest Peak                               										| 🟢         | Strings              |                          |                |
+| [River Sizes                               										                    | 🟢         | Strings              |                          |                |  
+| [Three Number Sum                               									| 🟢         | Strings              |                          |                |  
+| [Smallest Difference                               								| 🟢         | Strings              |                          |                |  
+| [Move Element To End                               								| 🟢         | Strings              |                          |                |  
+| [Monotonic Array                               									| 🟢         | Strings              |                          |                |  
+| [Spiral Traverse                               									| 🟢         | Strings              |                          |                |  
+| [Longest Peak                               										| 🟢         | Strings              |                          |                |  
 | [Array Of Products                               									| 🟢         | Strings              |                          |                |
 | [First Duplicate Value                               								| 🟢         | Strings              |                          |                |
 | [Merge Overlapping Intervals                               						| 🟢         | Strings              |                          |                |
