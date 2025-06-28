@@ -111,5 +111,66 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Reverse Words In String                               							| 🔵         | Strings              |                          |                |
 | [Minimum Characters For Words                               						| 🔵         | Strings              |                          |                |
 | [One Edit                               											| 🔵         | Strings              |                          |                |
-| [Suffix Trie Construction                               							| 🔵         | Strings              |                          |                |
+| [Suffix Trie Construction                               							| 🔵         | Strings              |                          |                |  
+|                                | 🟢         | Strings              |                          |                | 
+| Hard Problems                               | 🟢         | Strings              |                          |                | 
+| [Shift Linked List                               | 🟢         | Strings              |                          |                |  
+| [Four Number Sum                               | 🟢         | Strings              |                          |                |  
+| [Subarray Sort                               | 🟢         | Strings              |                          |                |  
+| [Largest Range                               | 🟢         | Strings              |                          |                |  
+| [Min Rewards                               | 🟢         | Strings              |                          |                |  
+| [Zigzag Traverse                               | 🟢         | Strings              |                          |                |  
+| [Longest Subarray With Sum                               | 🟢         | Strings              |                          |                |  
+| [Knight Connection                               | 🟢         | Strings              |                          |                |  
+| [Count Squares                               | 🟢         | Strings              |                          |                |  
+| [Same BSTs                               | 🟢         | Strings              |                          |                |  
+| [Validate Three Nodes                               | 🟢         | Strings              |                          |                |  
+| [Repair BST                               | 🟢         | Strings              |                          |                |  
+| [Sum BSTs                               | 🟢         | Strings              |                          |                |  
+| [Max Path Sum In Binary Tree                               | 🟢         | Strings              |                          |                |  
+| [Find Nodes Distance K                               | 🟢         | Strings              |                          |                |  
+| [Max Sum Increasing Subsequence                               | 🟢         | Strings              |                          |                |  
+| [Longest Common Subsequence                               | 🟢         | Strings              |                          |                |  
+| [Min Number Of Jumps                               | 🟢         | Strings              |                          |                |  
+| [Water Area                               | 🟢         | Strings              |                          |                |  
+| [Knapsack Problem                               | 🟢         | Strings              |                          |                |  
+| [Disk Stacking                               | 🟢         | Strings              |                          |                |  
+| [Numbers In Pi                               | 🟢         | Strings              |                          |                |  
+| [Maximum Sum Submatrix                               | 🟢         | Strings              |                          |                |  
+| [Maximize Expression                               | 🟢         | Strings              |                          |                |  
+| [Dice Throws                               | 🟢         | Strings              |                          |                |  
+| [Juice Bottling                               | 🟢         | Strings              |                          |                |  
+| [Dijkstra's Algorithm                               | 🟢         | Strings              |                          |                |  
+| [Topological Sort                               | 🟢         | Strings              |                          |                |  
+| [Kruskal's Algorithm                               | 🟢         | Strings              |                          |                |  
+| [Prims Algorithm                               | 🟢         | Strings              |                          |                |  
+| [Boggle Board                               | 🟢         | Strings              |                          |                |  
+| [Largest Island                               | 🟢         | Strings              |                          |                |  
+| [Continuous Median                               | 🟢         | Strings              |                          |                |  
+| [Sort K-Sorted Array                               | 🟢         | Strings              |                          |                |  
+| [Laplace Rentals                               | 🟢         | Strings              |                          |                |  
+| [Find Loop                               | 🟢         | Strings              |                          |                |  
+| [Reverse Linked List                               | 🟢         | Strings              |                          |                |  
+| [Merge Linked Lists                               | 🟢         | Strings              |                          |                |  
+| [Lowest Common Manager                               | 🟢         | Strings              |                          |                |  
+| [Interweaving Strings                               | 🟢         | Strings              |                          |                |  
+| [Solve Sudoku                               | 🟢         | Strings              |                          |                |  
+| [Generate Div Tags                               | 🟢         | Strings              |                          |                |  
+| [Ambigious Measurements                               | 🟢         | Strings              |                          |                |  
+| [Shifted Binary Search                               | 🟢         | Strings              |                          |                |  
+| [Search For Range                               | 🟢         | Strings              |                          |                |  
+| [Quickselect                               | 🟢         | Strings              |                          |                |  
+| [Index Equals Value                               | 🟢         | Strings              |                          |                |  
+| [Quick Sort                               | 🟢         | Strings              |                          |                |  
+| [Heap Sort                               | 🟢         | Strings              |                          |                |  
+| [Radix Sort                               | 🟢         | Strings              |                          |                |  
+| [Shorten Path                               | 🟢         | Strings              |                          |                |  
+| [Largest Rectangle Under Skyline                               | 🟢         | Strings              |                          |                |  
+| [Longest Substring Without Duplication                               | 🟢         | Strings              |                          |                |  
+| [Underscorify Substring                               | 🟢         | Strings              |                          |                |  
+| [Pattern Matcher                               | 🟢         | Strings              |                          |                |  
+| [Multi String Search                               | 🟢         | Strings              |                          |                |  
+| [Longest Most Frequent Prefix                               | 🟢         | Strings              |                          |                |  
+| [Shortest Unique Prefixes                               | 🟢         | Strings              |                          |                |  
+| [                               | 🟢         | Strings              |                          |                |  
 
