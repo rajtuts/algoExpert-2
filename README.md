@@ -36,7 +36,6 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Palindrome Check](/Easy/palindrome-check.md)                                     | 🟢         | Strings              | Two Pointers             |                |
 | [Cesar Cipher Encryptor](/Easy/cesar-cipher-encryptor.md)                         | 🟢         | Strings              |                          |                |
 | [Run-Length Encoding](/Easy/run-length-encoding.md)                               | 🟢         | Strings              |                          |                |
-
 | [River Sizes                               										                    | 🟢         | Strings              |                          |                |  
 | [Three Number Sum                               									| 🟢         | Strings              |                          |                |  
 | [Smallest Difference                               								| 🟢         | Strings              |                          |                |  
