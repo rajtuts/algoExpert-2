@@ -199,16 +199,16 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [LRU Cache| ⚫️         | Strings              |                          |                |  
 | [Rearrange Linked List| ⚫️         | Strings              |                          |                |  
 | [Linked List Palindrome| ⚫️         | Strings              |                          |                |  
-| [Zip Linked List| 🟢         | Strings              |                          |                |  
-| [Node Swap| 🟢         | Strings              |                          |                |  
-| [Number Of Binary Tree Topologies| 🟢         | Strings              |                          |                |  
-| [Non-Attacking Queens| 🟢         | Strings              |                          |                |  
-| [Median Of Two Sorted Arrays| 🟢         | Strings              |                          |                |  
-| [Optimal Assembly Line| 🟢         | Strings              |                          |                |  
-| [Merge Sort| 🟢         | Strings              |                          |                |  
-| [Count Inversions| 🟢         | Strings              |                          |                |  
-| [Largest Park| 🟢         | Strings              |                          |                |  
-| [Smallest Substring Containing| 🟢         | Strings              |                          |                |  
-| [Longest Balanced Substring| 🟢         | Strings              |                          |                |  
-| [Strings Made Up Of Strings| 🟢         | Strings              |                          |                |  
+| [Zip Linked List| ⚫️         | Strings              |                          |                |  
+| [Node Swap| ⚫️         | Strings              |                          |                |  
+| [Number Of Binary Tree Topologies| ⚫️         | Strings              |                          |                |  
+| [Non-Attacking Queens| ⚫️         | Strings              |                          |                |  
+| [Median Of Two Sorted Arrays| ⚫️         | Strings              |                          |                |  
+| [Optimal Assembly Line| ⚫️         | Strings              |                          |                |  
+| [Merge Sort| ⚫️         | Strings              |                          |                |  
+| [Count Inversions| ⚫️         | Strings              |                          |                |  
+| [Largest Park| ⚫️         | Strings              |                          |                |  
+| [Smallest Substring Containing| ⚫️         | Strings              |                          |                |  
+| [Longest Balanced Substring| ⚫️         | Strings              |                          |                |  
+| [Strings Made Up Of Strings| ⚫️         | Strings              |                          |                |  
 
