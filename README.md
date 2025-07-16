@@ -38,16 +38,16 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Run-Length Encoding](/Easy/run-length-encoding.md)                               | 🟢         | Strings              |                          |                |
 | [                              										                    | 🟢         | Strings              |                          |                |
 | [                               										                    | 🟢         | Strings              |                          |                |
-| [Medium Problems                               										                    | 🔵         | Strings              |                          |                |
-| [River Sizes                               										                    | 🔵         | Strings              |                          |                |  
-| [Three Number Sum                               									| 🔵         | Strings              |                          |                |  
-| [Smallest Difference                               								| 🔵         | Strings              |                          |                |  
-| [Move Element To End                               								| 🔵         | Strings              |                          |                |  
-| [Monotonic Array                               									| 🔵         | Strings              |                          |                |  
-| [Spiral Traverse                               									| 🔵         | Strings              |                          |                |  
-| [Longest Peak                               										| 🔵         | Strings              |                          |                |  
-| [Array Of Products                               									| 🔵         | Strings              |                          |                |
-| [First Duplicate Value                               								| 🔵         | Strings              |                          |                |
+| [Medium Problems ]                              										                    | 🔵         | Strings              |                          |                |
+| [River Sizes]                               										                    | 🔵         | Strings              |                          |                |  
+| [Three Number Sum]                               									| 🔵         | Strings              |                          |                |  
+| [Smallest Difference]                               								| 🔵         | Strings              |                          |                |  
+| [Move Element To End]                               								| 🔵         | Strings              |                          |                |  
+| [Monotonic Array]                               									| 🔵         | Strings              |                          |                |  
+| [Spiral Traverse]                               									| 🔵         | Strings              |                          |                |  
+| [Longest Peak]                               										| 🔵         | Strings              |                          |                |  
+| [Array Of Products]                               									| 🔵         | Strings              |                          |                |
+| [First Duplicate Value]                               								| 🔵         | Strings              |                          |                |
 | [Merge Overlapping Intervals                               						| 🔵         | Strings              |                          |                |
 | [Best Seat                               											| 🔵         | Strings              |                          |                |
 | [Zero Sum Subarray                               									| 🔵         | Strings              |                          |                |
