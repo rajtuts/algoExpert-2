@@ -211,7 +211,7 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 
 
 
-I can help with that! Here's the information extracted from the image in a table format:
+## Group By Category
 
 | Category          | Problem Name               | Difficulty |
 | :---------------- | :------------------------- | :--------- |
