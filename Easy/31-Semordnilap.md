@@ -8,27 +8,24 @@ import java.util.*;
 
 class Program {
 
-  // O(n + m) time | O(c) space - where n is the number of characters, m is
-  // the length of the document, and c is the number of unique characters in the
-  // characters string
-  public boolean generateDocument(String characters, String document) {
-    HashMap<Character, Integer> characterCounts = new HashMap<Character, Integer>();
+  // O(n * m) time | O(n * m) space - where n is the number of words and
+  // m is the length of the longest word
+  public ArrayList<ArrayList<String>> semordnilap(String[] words) {
+    HashSet<String> wordsSet = new HashSet<String>(Arrays.asList(words));
+    ArrayList<ArrayList<String>> semordnilapPairs = new ArrayList<ArrayList<String>>();
 
-    for (int idx = 0; idx < characters.length(); idx++) {
-      char character = characters.charAt(idx);
-      characterCounts.put(character, characterCounts.getOrDefault(character, 0) + 1);
-    }
-
-    for (int idx = 0; idx < document.length(); idx++) {
-      char character = document.charAt(idx);
-      if (!characterCounts.containsKey(character) || characterCounts.get(character) == 0) {
-        return false;
+    for (String word : words) {
+      String reverse = new StringBuilder(word).reverse().toString();
+      if (wordsSet.contains(reverse) && !reverse.equals(word)) {
+        ArrayList<String> semordnilapPair = new ArrayList<String>();
+        semordnilapPair.add(word);
+        semordnilapPair.add(reverse);
+        semordnilapPairs.add(semordnilapPair);
+        wordsSet.remove(word);
+        wordsSet.remove(reverse);
       }
-
-      characterCounts.put(character, characterCounts.get(character) - 1);
     }
-
-    return true;
+    return semordnilapPairs; // Added missing return statement
   }
 }
 
