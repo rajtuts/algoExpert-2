@@ -291,7 +291,7 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 |                   | Longest Increasing Subsequence | Medium |
 |                   | Longest String Chain          | Hard       |
 |                   | Square of Zeroes              | Hard       |
-Here's the extracted text from the image, formatted as a table:
+
 
 | Category          | Problem Name               | Difficulty |
 | :---------------- | :------------------------- | :--------- |
@@ -342,5 +342,40 @@ Here's the extracted text from the image, formatted as a table:
 |                   | Radix Sort                 | Medium     |
 |                   | Merge Sort                 | Medium     |
 |                   | Count Inversions           | Hard       |
-
+| Category          | Problem Name               | Difficulty |
+| :---------------- | :------------------------- | :--------- |
+| **Stacks (0/11)** | Min Max Stack Construction | Medium     |
+|                   | Balanced Brackets          | Medium     |
+|                   | Sunset Views               | Medium     |
+|                   | Best Digits                | Medium     |
+|                   | Sort Stack                 | Medium     |
+|                   | Next Greater Element       | Medium     |
+|                   | Reverse Polish Notation    | Medium     |
+|                   | Colliding Asteroids        | Medium     |
+|                   | Shorten Path               | Medium     |
+|                   | Largest Rectangle Under Skyline | Hard       |
+|                   | Largest Park               | Hard       |
+| **Strings (0/18)** | Palindrome Check           | Easy       |
+|                   | Caesar Cipher Encryptor    | Easy       |
+|                   | Run-Length Encoding        | Easy       |
+|                   | Common Characters          | Easy       |
+|                   | Generate Document          | Easy       |
+|                   | First Non-Repeating Character | Easy |
+|                   | Semordnilap                | Easy       |
+|                   | Longest Palindromic Substring | Medium |
+|                   | Group Anagrams             | Medium     |
+|                   | Valid IP Addresses         | Medium     |
+|                   | Reverse Words In String    | Medium     |
+|                   | Minimum Characters For Words | Medium |
+|                   | One Edit                   | Medium     |
+|                   | Longest Substring Without Duplicates | Medium |
+|                   | Underscorify Substring     | Hard       |
+|                   | Pattern Matcher            | Hard       |
+|                   | Smallest Substring Containing | Hard       |
+|                   | Longest Balanced Substring | Hard       |
+| **Tries (0/5)** | Suffix Trie Construction   | Medium     |
+|                   | Multi String Search        | Hard       |
+|                   | Longest Most Frequent Prefix | Hard       |
+|                   | Shortest Unique Prefixes   | Hard       |
+|                   | Strings Made Up Of Strings | Hard       |
 
