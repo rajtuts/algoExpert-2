@@ -208,6 +208,87 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Merge Sort| ⚫️         | Strings              |                          |                |  
 | [Count Inversions| ⚫️         | Strings              |                          |                |  
 | [Largest Park| ⚫️         | Strings              |                          |                |  
+
+
+
+I can help with that! Here's the information extracted from the image in a table format:
+
+| Category          | Problem Name               | Difficulty |
+| :---------------- | :------------------------- | :--------- |
+| **Arrays (0/33)** | Two Number Sum                | Easy       |
+|                   | Validate Subsequence       | Easy       |
+|                   | Sorted Squared Array          | Easy       |
+|                   | Tournament Winner             | Easy       |
+|                   | Non-Constructible Change      | Easy       |
+|                   | Transpose Matrix              | Easy       |
+|                   | Three Number Sum              | Medium     |
+|                   | Smallest Difference           | Medium     |
+|                   | Move Element To End           | Medium     |
+|                   | Monotonic Array               | Easy       |
+|                   | Spiral Traverse               | Medium     |
+|                   | Longest Peak                  | Medium     |
+|                   | Array Of Products             | Medium     |
+|                   | First Duplicate Value         | Medium     |
+|                   | Merge Overlapping Intervals    | Medium     |
+|                   | Best Seat                     | Easy       |
+|                   | Zero Sum Subarray             | Medium     |
+|                   | Missing Numbers               | Medium     |
+|                   | Majority Element              | Medium     |
+|                   | Sweet And Savory              | Medium     |
+|                   | Four Number Sum            | Hard       |
+|                   | Subarray Sort              | Medium     |
+|                   | Largest Range              | Hard       |
+|                   | Min Rewards                | Hard       |
+| **Binary Search Trees (0/12)** | Find Closest Value In BST | Easy |
+|                   | BST Construction              | Medium     |
+|                   | Validate BST                  | Medium     |
+|                   | BST Traversal                 | Medium     |
+|                   | Min Height BST                | Medium     |
+|                   | Find Kth Largest Value In BST | Medium |
+|                   | Reconstruct BST               | Medium     |
+|                   | Same BSTs                     | Medium     |
+|                   | Validate Three Nodes          | Medium     |
+|                   | Repair BST                    | Hard       |
+|                   | Sum BSTs                      | Hard       |
+|                   | Right Smaller Than         | Hard       |
+| **Binary Trees (0/17)** | Branch Sums                   | Easy       |
+|                   | Node Depths                   | Easy       |
+|                   | Evaluate Expression Tree      | Medium     |
+|                   | Invert Binary Tree            | Easy       |
+|                   | Binary Tree Diameter          | Medium     |
+|                   | Find Successor                | Medium     |
+|                   | Height Balanced Binary Tree | Medium |
+|                   | Merge Binary Trees            | Easy       |
+|                   | Symmetrical Tree              | Easy       |
+|                   | Split Binary Tree             | Medium     |
+|                   | Max Path Sum In Binary Tree | Hard |
+|                   | Find Nodes Distance K         | Hard       |
+|                   | Iterative In-order Traversal | Medium |
+|                   | Flatten Binary Tree        | Medium |
+|                   | Right Sibling Tree         | Medium |
+|                   | All Kinds Of Node Depths   | Hard       |
+|                   | Compare Leaf Traversal     | Medium |
+| **Dynamic Programming (0/21)** | Max Subset Sum No Adjacent | Medium |
+|                   | Number Of Ways To Make Change | Medium |
+|                   | Min Number Of Coins For Change | Medium |
+|                   | Levenshtein Distance          | Medium     |
+|                   | Number Of Ways To Traverse Graph | Medium |
+|                   | Max Sum Increasing Subsequence | Medium |
+|                   | Longest Common Subsequence    | Medium     |
+|                   | Min Number Of Jumps           | Hard       |
+|                   | Water Area                    | Hard       |
+|                   | Knapsack Problem              | Hard       |
+|                   | Disk Stacking                 | Hard       |
+|                   | Numbers In Pi                 | Hard       |
+|                   | Maximum Sum Submatrix         | Hard       |
+|                   | Maximize Expression           | Hard       |
+|                   | Dice Throws                   | Hard       |
+|                   | Juice Bottling             | Hard       |
+|                   | Max Profit With K Transactions | Hard |
+|                   | Palindrome Partitioning Min Cuts | Hard |
+|                   | Longest Increasing Subsequence | Medium |
+|                   | Longest String Chain          | Hard       |
+|                   | Square of Zeroes              | Hard       |
 | [Smallest Substring Containing| ⚫️         | Strings              |                          |                |  
 | [Longest Balanced Substring| ⚫️         | Strings              |                          |                |  
 | [Strings Made Up Of Strings| ⚫️         | Strings              |                          |                |  
