@@ -24,6 +24,24 @@ Instead of sorting, we can store the squares of non-negative and negative intege
 
 ### Implementation
 
+Java:
+```java
+import java.util.*;
+
+class Program {
+  // O(nlogn) time | O(n) space - where n is the length of the input array
+  public int[] sortedSquaredArray(int[] array) {
+    int[] sortedSquares = new int[array.length];
+    for (int idx = 0; idx < array.length; idx++) {
+      int value = array[idx];
+      sortedSquares[idx] = value * value;
+    }
+    Arrays.sort(sortedSquares);
+    return sortedSquares;
+  }
+}
+```
+
 ```js
 function sortedSquaredArray(array) {
   const positiveSquares = [];
