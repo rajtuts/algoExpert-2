@@ -42,6 +42,7 @@ class Program {
 }
 ```
 
+JavaScript:
 ```js
 function sortedSquaredArray(array) {
   const positiveSquares = [];
