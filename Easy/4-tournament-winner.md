@@ -14,6 +14,43 @@ We can use a hash table to keep track of each team's points, because a hash tabl
 
 ### Solution
 
+Java:
+```Java
+import java.util.*;
+
+class Program {
+  public int HOME_TEAM_WON = 1;
+
+  // O(n) time | O(k) space - where n is the number
+  // of competitions and k is the number of teams
+  public String tournamentWinner(
+      ArrayList<ArrayList<String>> competitions, ArrayList<Integer> results
+  ) {
+    String currentBestTeam = "";
+    HashMap<String, Integer> scores = new HashMap<String, Integer>();
+    scores.put(currentBestTeam, 0);
+
+    for (int idx = 0; idx < competitions.size(); idx++) {
+      ArrayList<String> competition = competitions.get(idx);
+      int result = results.get(idx);
+
+      String homeTeam = competition.get(0);
+      String awayTeam = competition.get(1);
+
+      String winningTeam = (result == HOME_TEAM_WON) ? homeTeam : awayTeam;
+
+      updateScores(winningTeam, 3, scores);
+
+      if (scores.get(winningTeam) > scores.get(currentBestTeam)) {
+        currentBestTeam = winningTeam;
+      }
+    }
+    return currentBestTeam;
+  }
+
+  public void updateScores(
+```
+
 ```js
 // Store `1` in a constant variable, so we can use the constant variable later
 // rather than having to write 1 in our program. This will make our code more
