@@ -32,6 +32,28 @@ Based on the above observation, we could compute the minimum amount of total wai
 
 ### Implementation
 
+Java:
+```Java
+import java.util.*;
+
+class Program {
+  // O(nlogn) time | O(1) space - where n is the number of queries
+  public int minimumWaitingTime(int[] queries) {
+    Arrays.sort(queries);
+
+    int totalWaitingTime = 0;
+    for (int idx = 0; idx < queries.length; idx++) {
+      int duration = queries[idx];
+      int queriesLeft = queries.length - (idx + 1);
+      totalWaitingTime += duration * queriesLeft;
+    }
+
+    return totalWaitingTime;
+  }
+}
+```
+
+JavaScript:
 ```js
 function minimumWaitingTime(queries) {
   queries.sort((a, b) => a - b);
