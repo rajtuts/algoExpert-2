@@ -291,10 +291,6 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 |                   | Longest Increasing Subsequence | Medium |
 |                   | Longest String Chain          | Hard       |
 |                   | Square of Zeroes              | Hard       |
-
-
-| Category          | Problem Name               | Difficulty |
-| :---------------- | :------------------------- | :--------- |
 | **Linked Lists (0/15)** | Remove Duplicates From Linked List | Easy       |
 |                   | Middle Node                | Easy       |
 |                   | Linked List Construction   | Medium     |
@@ -342,8 +338,6 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 |                   | Radix Sort                 | Medium     |
 |                   | Merge Sort                 | Medium     |
 |                   | Count Inversions           | Hard       |
-| Category          | Problem Name               | Difficulty |
-| :---------------- | :------------------------- | :--------- |
 | **Stacks (0/11)** | Min Max Stack Construction | Medium     |
 |                   | Balanced Brackets          | Medium     |
 |                   | Sunset Views               | Medium     |
