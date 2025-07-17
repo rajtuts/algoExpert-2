@@ -241,6 +241,15 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 |                   | Subarray Sort              | Medium     |
 |                   | Largest Range              | Hard       |
 |                   | Min Rewards                | Hard       |
+| Zigzag Traverse              | Hard       |
+| Longest Subarray With Sum    | Hard       |
+| Knight Connection            | Hard       |
+| Count Squares                | Hard       |
+| Apartment Hunting            | Hard       |
+| Calendar Matching            | Hard       |
+| Waterfall Streams            | Hard       |
+| Minimum Area Rectangle       | Hard       |
+| Line Through Points          | Hard       |
 | **Binary Search Trees (0/12)** | Find Closest Value In BST | Easy |
 |                   | BST Construction              | Medium     |
 |                   | Validate BST                  | Medium     |
