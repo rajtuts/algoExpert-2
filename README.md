@@ -208,7 +208,9 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Merge Sort| ⚫️         | Strings              |                          |                |  
 | [Count Inversions| ⚫️         | Strings              |                          |                |  
 | [Largest Park| ⚫️         | Strings              |                          |                |  
-
+| [Smallest Substring Containing| ⚫️         | Strings              |                          |                |  
+| [Longest Balanced Substring| ⚫️         | Strings              |                          |                |  
+| [Strings Made Up Of Strings| ⚫️         | Strings              |                          |                | 
 
 
 ## Group By Category
@@ -289,7 +291,5 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 |                   | Longest Increasing Subsequence | Medium |
 |                   | Longest String Chain          | Hard       |
 |                   | Square of Zeroes              | Hard       |
-| [Smallest Substring Containing| ⚫️         | Strings              |                          |                |  
-| [Longest Balanced Substring| ⚫️         | Strings              |                          |                |  
-| [Strings Made Up Of Strings| ⚫️         | Strings              |                          |                |  
+ 
 
