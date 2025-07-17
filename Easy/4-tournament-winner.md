@@ -24,8 +24,7 @@ class Program {
   // O(n) time | O(k) space - where n is the number
   // of competitions and k is the number of teams
   public String tournamentWinner(
-      ArrayList<ArrayList<String>> competitions, ArrayList<Integer> results
-  ) {
+      ArrayList<ArrayList<String>> competitions, ArrayList<Integer> results) {
     String currentBestTeam = "";
     HashMap<String, Integer> scores = new HashMap<String, Integer>();
     scores.put(currentBestTeam, 0);
