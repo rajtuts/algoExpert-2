@@ -291,6 +291,56 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 |                   | Longest Increasing Subsequence | Medium |
 |                   | Longest String Chain          | Hard       |
 |                   | Square of Zeroes              | Hard       |
+Here's the extracted text from the image, formatted as a table:
 
+| Category          | Problem Name               | Difficulty |
+| :---------------- | :------------------------- | :--------- |
+| **Linked Lists (0/15)** | Remove Duplicates From Linked List | Easy       |
+|                   | Middle Node                | Easy       |
+|                   | Linked List Construction   | Medium     |
+|                   | Remove Kth Node From End   | Medium     |
+|                   | Sum of Linked Lists        | Medium     |
+|                   | Merging Linked Lists       | Medium     |
+|                   | Find Loop                  | Medium     |
+|                   | Reverse Linked List        | Easy       |
+|                   | Merge Linked Lists         | Hard       |
+|                   | Shift Linked List          | Medium     |
+|                   | LRU Cache                  | Hard       |
+|                   | Rearrange Linked List      | Hard       |
+|                   | Linked List Palindrome     | Medium     |
+|                   | Zip Linked List            | Hard       |
+|                   | Node Swap                  | Hard       |
+| **Recursion (0/15)** | Nth Fibonacci           | Easy       |
+|                   | Product Sum                | Medium     |
+|                   | Permutations               | Medium     |
+|                   | Powerset                   | Medium     |
+|                   | Phone Number Mnemonics     | Medium     |
+|                   | Staircase Traversal        | Medium     |
+|                   | Blackjack Probability      | Hard       |
+|                   | Reveal Minesweeper         | Medium     |
+|                   | Lowest Common Manager      | Medium     |
+|                   | Interweaving Strings       | Hard       |
+|                   | Solve Sudoku               | Hard       |
+|                   | Ambigious Measurements     | Medium     |
+|                   | Number Of Binary Tree Topologies | Hard |
+|                   | Non-Attacking Queens       | Hard       |
+| **Searching (0/9)** | Binary Search            | Easy       |
+|                   | Find Three Largest Numbers | Easy       |
+|                   | Search In Sorted Matrix    | Medium     |
+|                   | Shifted Binary Search      | Medium     |
+|                   | Search For Range           | Medium     |
+|                   | Quickselect                | Medium     |
+|                   | Index Equals Value         | Medium     |
+|                   | Median Of Two Sorted Arrays | Hard       |
+|                   | Optimal Assembly Line      | Hard       |
+| **Sorting (0/9)** | Bubble Sort                | Easy       |
+|                   | Insertion Sort             | Easy       |
+|                   | Selection Sort             | Easy       |
+|                   | Three Number Sort          | Easy       |
+|                   | Quick Sort                 | Medium     |
+|                   | Heap Sort                  | Hard       |
+|                   | Radix Sort                 | Medium     |
+|                   | Merge Sort                 | Medium     |
+|                   | Count Inversions           | Hard       |
 
 
