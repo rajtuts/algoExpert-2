@@ -5,6 +5,24 @@
 Java
 ```Java
 class Program {
+    // O(n) time | O(d) space
+    public static boolean validateBst(BST tree) {
+        return validateBst(tree, Integer.MIN_VALUE, Integer.MAX_VALUE);
+    }
+
+    public static boolean validateBst(BST tree, int minValue, int maxValue) {
+        if (tree.value < minValue || tree.value >= maxValue) {
+            return false;
+        }
+        if (tree.left != null && !validateBst(tree.left, minValue, tree.value)) {
+            return false;
+        }
+        if (tree.right != null && !validateBst(tree.right, tree.value, maxValue)) {
+            return false;
+        }
+        return true;
+    }
+
     static class BST {
         public int value;
         public BST left;
@@ -12,32 +30,6 @@ class Program {
 
         public BST(int value) {
             this.value = value;
-        }
-
-        // Average: O(log(n)) time | O(1) space
-        // Worst: O(n) time | O(1) space
-        public BST insert(int value) {
-            BST currentNode = this;
-            while (true) {
-                if (value < currentNode.value) {
-                    if (currentNode.left == null) {
-                        BST newNode = new BST(value);
-                        currentNode.left = newNode;
-                        break;
-                    } else {
-                        currentNode = currentNode.left;
-                    }
-                } else {
-                    if (currentNode.right == null) {
-                        BST newNode = new BST(value);
-                        currentNode.right = newNode;
-                        break;
-                    } else {
-                        currentNode = currentNode.right;
-                    }
-                }
-            }
-            return this;
         }
     }
 }
